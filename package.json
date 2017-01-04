@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "Andrey Kozlov",
+    "url": "https://github.com/CoderFF/"
+  },
+  "name": "crispy-config",
+  "license": "GNU GPL3",
+  "homepage": "https://github.com/CoderFF/crispy-config",
+  "description": "simple JSON config for node.js apps",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderFF/stemcell.git"
+  },
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">=0.10.36"
+  },
+  "dependencies": {
+  }
+  "_id": "crispy-config@1.0.0"
+}
